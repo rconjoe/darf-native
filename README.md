@@ -1,12 +1,6 @@
-# electron-shadcn
+# DARF
 
-Electron in all its glory. Everything you will need to develop your beautiful desktop application.
-
-![Demo GIF](https://github.com/LuanRoger/electron-shadcn/blob/main/images/demo.gif)
-
-## Libs and tools
-
-To develop a Electron app, you probably will need some UI, test, formatter, style or other kind of library or framework, so let me install and configure some of them to you.
+An Electron app for all things Darf, packaged as a portable Windows executable.
 
 ### Core 🏍️
 
@@ -54,8 +48,6 @@ To develop a Electron app, you probably will need some UI, test, formatter, styl
 - Geist as default font
 - Some default styles was applied, check the [`styles`](https://github.com/LuanRoger/electron-shadcn/tree/main/src/styles) directory
 - React DevTools are installed by default
-
-> If you don't know some of these libraries or tools, I recommend you to check their documentation to understand how they work and how to use them.
 
 ## Directory structure
 
@@ -134,13 +126,6 @@ npm install
 ```bash
 npm run start
 ```
-
-## Used by
-
-- [yaste](https://github.com/LuanRoger/yaste) - yaste (Yet another super ₛᵢₘₚₗₑ text editor) is a text editor, that can be used as an alternative to the native text editor of your SO, maybe.
-- [eletric-drizzle](https://github.com/LuanRoger/electric-drizzle) - shadcn-ui and Drizzle ORM with Electron.
-
-> Does you've used this template in your project? Add it here and open a PR.
 
 ## License
 
