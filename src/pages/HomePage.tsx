@@ -1,5 +1,4 @@
 import React from "react";
-import ToggleTheme from "@/components/ToggleTheme";
 import { useTranslation } from "react-i18next";
 import Footer from "@/components/template/Footer";
 
@@ -18,7 +17,6 @@ export default function HomePage() {
             {t("titleHomePage")}
           </p>
         </span>
-        <ToggleTheme />
       </div>
       <Footer />
     </div>
